@@ -1,0 +1,11 @@
+pyside2
+numpy
+pandas
+pyqt-darktheme
+qtawesome
+cryptographer
+SQLAlchemy
+PyQt5
+regex
+requests
+pydantic
